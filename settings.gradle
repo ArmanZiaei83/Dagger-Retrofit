@@ -1,0 +1,2 @@
+rootProject.name = "Fagger-Retrofit"
+include ':app'
